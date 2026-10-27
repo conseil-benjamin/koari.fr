@@ -87,7 +87,7 @@ Les questions sont conçues pour **ne pas vieillir** : on évite les données vo
 
 | Accueil | Création de partie | En jeu |
 |---|---|---|
-| ![Accueil](./assets/screenshots/home.png) | ![Création](./assets/screenshots/create.png) | ![Jeu](./assets/screenshots/game.png) |
+| ![Accueil](./assets/home.png) | ![Création](./assets/create.png) | ![Jeu](./assets/jeu.png) |
 
 ## Architecture technique
 
